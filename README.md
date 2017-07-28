@@ -1,5 +1,5 @@
 # Index-System
-This is a index system in c and using linked list of data structure
+This is an index system in c and using linked list of data structure
 This code is basic on c language.
 Using point and linked list.
 We have 6 functions of this program.
