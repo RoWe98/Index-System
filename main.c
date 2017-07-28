@@ -8,6 +8,7 @@
 
 //通信录管理系统 代码不是特别完善 在win平台上可能不能运行
 //代码编写平台为 macos serria
+//编译工具为xcode
 
 #include<stdio.h>
 #include<string.h>
