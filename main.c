@@ -41,7 +41,7 @@ void Menu()
     printf("3.Change the Index\n");
     printf("4.delete the index\n");
     printf("5.show all the index\n");
-    printf("7.Inset the new data\n");
+    printf("6.Inset the new data\n");
     printf("0.Exit the index\n");
     printf("INPUT0-6 to Use The Function\n");
 }
